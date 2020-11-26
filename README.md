@@ -34,11 +34,11 @@ Then, simply navigate to the [u_net.ipynb](u_net.ipynb) file to run the project.
 
 Shown below are three different graphs which detail the loss obtained by the project at each epoch of training. The three metrics used to evaluate loss were the mean squared error, L1 norm, and SSIM (note that the implementation of SSIM used computes similarity based on three-dimensional volumes rather than two-dimensional slices).
 
-![L1](img/L1_loss.png =600x )
+![L1](img/L1_loss.png)
 
-![MSE](img/MSE_loss.png =600x )
+![MSE](img/MSE_loss.png)
 
-![SSIM](img/SSIM_loss.png =600x )
+![SSIM](img/SSIM_loss.png)
 
 
 
